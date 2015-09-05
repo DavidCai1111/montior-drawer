@@ -88,7 +88,7 @@ function wave () {
 }
 
 /**
- * Draw a cliff
+ * Draw a cliff， 7s is nearly a tick of OS X's monitor
  * @public
  */
 function cliff () {
