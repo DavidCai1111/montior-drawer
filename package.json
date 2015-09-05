@@ -1,0 +1,22 @@
+{
+  "name": "cpu-drawer",
+  "version": "1.0.0",
+  "description": "a toy to draw different shapes on your cpu monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidCai1993/cpu-drawer.git"
+  },
+  "author": "DavidCai1993",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidCai1993/cpu-drawer/issues"
+  },
+  "homepage": "https://github.com/DavidCai1993/cpu-drawer#readme",
+  "dependencies": {
+    "sleep": "^3.0.0"
+  }
+}
